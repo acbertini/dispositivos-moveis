@@ -1,0 +1,7 @@
+{
+  "name": "dispositivosMoveis",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
